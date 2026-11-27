@@ -1,0 +1,24 @@
+{
+  "repo": "gauthmath-unlocked-shift-setup",
+  "product": "Gauthmath Unlocked Shift Setup",
+  "product_title": "Gauthmath Unlocked Shift Setup",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "gauthmath",
+    "gauthmath-app",
+    "device-flashing",
+    "mobile-service",
+    "firmware-tools",
+    "how-to-install-gauthmath",
+    "how-to-setup-gauthmath",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
